@@ -1,0 +1,10 @@
+exit Terminal mode? What?
+sleuth, change tabstop from 8 to 4? 2?
+mini.surround not really working with s being substitute already?
+
+to learn:
+- scroll without moving cursor
+- jump (page, brackets, etc?)
+- many open files, how to see, switch?
+- lsp: analyze in insert mode?
+- autocomplete: How to take suggestion???
